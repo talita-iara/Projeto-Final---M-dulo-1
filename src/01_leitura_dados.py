@@ -47,13 +47,22 @@ print(df_base.shape)
 
 #Estatística descritiva
 print(df_base[['Unit price']].describe())
+#preço varia de 10,08 a 99,96
 print(df_base[['Quantity']].describe())
+#quantidade varia de 1 a 10 unidades
 print(df_base[['Sales']].describe())
+# o valor total varia de 10,68 a 1.042,65
 print(df_base[['cogs']].describe())
+# varia de 10,17 a 993
 print(df_base[['gross margin percentage']].describe())
+#mantém o padrão de 4,761905
 print(df_base[['gross income']].describe())
+# o lucro varia de 0,51 a 49,65
 print(df_base[['Rating']].describe())
+#a avaliação média é de 6,97 - variando de 4 a 10
+
 #não existem valores negativos
+
 
 #Confirmando que não existem valores nulos
 print(df_base.isnull().sum())
