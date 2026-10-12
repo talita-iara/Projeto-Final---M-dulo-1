@@ -84,3 +84,13 @@ No vs code, realizei a exploração dos dados, entendendo o conteúdo dos dados,
 Pontos observados: não existiam valores nulos na tabela, nem valores negativos ou zerados em colunas como vendas e quantidade, porém inconsistência no tipo de dados na coluna de data, por exemplo.
 
 Total de 1000 linhas e 17 colunas
+
+
+TRATAMENTO DOS DADOS
+
+Verificado que não haviam valores escritos incorretos nas categorias, realizado o tratamento da coluna data e hora.
+
+Salvei as informações em um novo arquivo.
+
+
+SQL
