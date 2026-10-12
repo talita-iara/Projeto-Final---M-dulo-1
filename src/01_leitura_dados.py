@@ -57,3 +57,6 @@ print(df_base[['Rating']].describe())
 
 #Confirmando que não existem valores nulos
 print(df_base.isnull().sum())
+
+# Verificar identificadores duplicados
+print(df_base["Invoice ID"].duplicated().sum())
