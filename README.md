@@ -1,4 +1,4 @@
-## Projeto Final Módulo 1 - Análise de Dados com Python - T4 SCTECH
+## Projeto Avaliativo - Análise de Dados com Python - T4 SCTECH
 
 ## TALITA IARA DOS SANTOS
 
