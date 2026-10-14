@@ -1,0 +1,5 @@
+pandas: leitura, tratamento e análise dos dados.
+matplotlib: criação dos gráficos.
+sqlalchemy: conexão e interação com o banco de dados.
+psycopg2-binary: conexão do Python com o PostgreSQL.
+python-dotenv: leitura das configurações armazenadas no arquivo .env.
