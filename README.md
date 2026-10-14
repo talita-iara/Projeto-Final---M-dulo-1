@@ -97,6 +97,10 @@ Para a tabela de dados tratados, defini os tipos das variáveis e algumas regras
 
 Também criei consultas SQL para realizar as pesquisas propostas no projeto. Os resultados foram exportados em arquivos CSV e salvos na pasta resultados.
 
+![1791946966505](image/README/1791946966505.png)
+
+![1791947009421](image/README/1791947009421.png)
+
 ### Análises e resultados
 
 Nesta etapa, realizei consultas SQL para analisar os dados de vendas e responder às oito perguntas de negócio propostas no projeto. 
@@ -115,6 +119,8 @@ Os resultados foram exportados em arquivos CSV e salvos na pasta resultados.
 - Giza: 110.568,86
 - Alex: 106.200,57
 - Cairo: 106.198,00
+
+![1791947053010](image/README/1791947053010.png)
 
 Análise:  A filial Giza apresentou o maior faturamento, a diferença entre Giza e as outras filiais foi relativamente pequena, mostrando que os resultados de faturamento foram próximos.
 
@@ -142,6 +148,8 @@ Análise:  A filial Alex realizou o maior número de vendas, mesmo não sendo a 
 - Fashion accessories: 54.306,03
 - Home and lifestyle: 53.861,96
 - Health and beauty: 49.193,84
+
+![1791947159899](image/README/1791947159899.png)
 
 Análise : A categoria Food and beverages apresentou o maior faturamento, enquanto Health and beauty apresentou o menor. Os resultados mostram que o faturamento foi relativamente próximo entre a maioria das categorias.
 
@@ -208,6 +216,8 @@ Análise: A maior venda registrada apresentou o valor de 1.042,65, acima da méd
 - Quinta-feira: 138 vendas
 - Domingo: 133 vendas
 - Segunda-feira: 125 vendas
+
+![1791947125779](image/README/1791947125779.png)
 
 Análise O sábado foi o dia com maior número de vendas, enquanto a segunda-feira apresentou o menor resultado. Essa informação pode ajudar no planejamento das atividades das filiais, considerando os dias com maior movimento.
 
